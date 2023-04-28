@@ -9,7 +9,7 @@ Any individual that wants to run this parser will have to first authenticate the
 
 IMPORTANT:
 
-KEEP THIS GITHUB PRIVATE AT ALL TIMES. The google drive authentication process requires a credentials.json file. This file contains sensitive information relating to your google drive account. If this file is in the github and said github is public, it might fall in the wrong hands.
+KEEP THIS GITHUB PRIVATE AT ALL TIMES. The google drive authentication process requires a credentials.json file. This file contains sensitive information relating to your google drive account. If this file is in the github and said github is public, it might fall in the wrong hands. I have ommited this file from the code since it is not a private repository as of now.
 
 NOTE FOR GOOGLE DRIVE SUBMISSIONS:
 
